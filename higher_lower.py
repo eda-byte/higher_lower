@@ -41,7 +41,7 @@ score = 0
 
 
 def randomer(harf):
-	"""Merabaaa"""
+	"""Merabaaa EDASUUUUU"""
 	randKey=game_data.data[random.randint(0, 49)]
 
 
@@ -139,4 +139,4 @@ def main():
 	while result is True:
 		round()
 	
-main()
+main()	
