@@ -3,7 +3,7 @@ import game_data
 from art import logo, vs
 def main(): 
     print("hey there") 
- print(logo)
+    print(logo)
 print("Welcome to the 'Higher vs Lower' game!\n")
 ############
 #random bi sayiyla A yi buluyor
